@@ -1,5 +1,3 @@
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjackbogart&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1 align="center">Hi! I'm John</h1>
 <h3 align="center">A founder from Cleveland, OH</h3>
 
@@ -44,6 +42,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnjackbogart&show_icons=true&locale=en" alt="johnjackbogart" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnjackbogart&" alt="johnjackbogart" /></p>
+Here are my stats: 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjackbogart&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some fun quotes:
 
