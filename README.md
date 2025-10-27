@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [johnjackbogart.com](johnjackbogart.com)
 
-- 📝 I regularly write articles on [johnjackbogart.com/blog](johnjackbogart.com/blog)
+- 📝 I am going to write some articles on [johnjackbogart.com/blog](johnjackbogart.com/blog) (Soon!!!)
 
 - 💬 Ask me about **React & Next.JS**
 
