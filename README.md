@@ -23,7 +23,9 @@
 
 - 📄 Know about my experiences [johnjackbogart.com/resume](johnjackbogart.com/resume)
 
-- ⚡ Fun fact **I love to run**
+- Check out my lander at [johnjackbogart.github.io](johnjackbogart.github.io). Prompted with GPT-5
+
+- **I love to run and make music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
