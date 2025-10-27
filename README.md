@@ -1,7 +1,7 @@
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjackbogart&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A passionate frontend developer from Cleveland</h3>
+<h1 align="center">Hi! I'm John</h1>
+<h3 align="center">A founder from Cleveland, OH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnjackbogart&label=Profile%20views&color=0e75b6&style=flat" alt="johnjackbogart" /> </p>
 
