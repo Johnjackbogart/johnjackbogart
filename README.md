@@ -15,15 +15,15 @@
 
 - 👨‍💻 All of my projects are available at [johnjackbogart.com](johnjackbogart.com)
 
-- 📝 I am going to write some articles on [johnjackbogart.com/blog](johnjackbogart.com/blog) (Soon!!!)
+- 📝 I am going to write some articles on [johnjackbogart.com/blog](https://www.johnjackbogart.com/blog) (Soon!!!)
 
 - 💬 Ask me about **React & Next.JS**
 
 - 📫 How to reach me **johnjackbogart@gmail.com**
 
-- 📄 Know about my experiences [johnjackbogart.com/resume](johnjackbogart.com/resume)
+- 📄 Know about my experiences [johnjackbogart.com/resume](https://www.johnjackbogart.com/resume)
 
-- Check out my lander at [johnjackbogart.github.io](johnjackbogart.github.io). Prompted with GPT-5
+- Check out my lander at [johnjackbogart.github.io](https://www.johnjackbogart.github.io). Prompted with GPT-5
 
 - **I love to run and make music**
 
