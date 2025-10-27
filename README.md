@@ -44,8 +44,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnjackbogart&" alt="johnjackbogart" /></p>
 Here are my stats: 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjackbogart&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some fun quotes:
