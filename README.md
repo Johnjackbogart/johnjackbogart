@@ -5,23 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/johnjackbogart" target="blank"><img src="https://img.shields.io/twitter/follow/johnjackbogart?logo=twitter&style=for-the-badge" alt="johnjackbogart" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://johnjackbogart.com)
+-  I’m currently learning **Rust**
 
-- 🌱 I’m currently learning **Three.JS and React Three Fiber**
+-  I’m looking to collaborate on [shome.page](https://shome.page)
 
-- 👯 I’m looking to collaborate on [shome.page](https://shome.page)
+-  I’m looking for help with [r.technology](https://r.technology)
 
-- 🤝 I’m looking for help with [r.technology](https://r.technology)
+-  All of my projects are available at [johnjackbogart.com](johnjackbogart.com)
 
-- 👨‍💻 All of my projects are available at [johnjackbogart.com](johnjackbogart.com)
+-  I am _going_ to write some articles on [my blog](https://www.johnjackbogart.com/blog) (Soon!!!)
 
-- 📝 I am _going_ to write some articles on [my blog](https://www.johnjackbogart.com/blog) (Soon!!!)
+-  Ask me about **React & Next.JS**
 
-- 💬 Ask me about **React & Next.JS**
+-  How to reach me **johnjackbogart@gmail.com**
 
-- 📫 How to reach me **johnjackbogart@gmail.com**
-
-- 📄 Here is my [resume](https://www.johnjackbogart.com/resume)
+-  Here is my [resume](https://www.johnjackbogart.com/resume)
 
 - Check out my at [lander](https://johnjackbogart.github.io). Prompted with GPT-5
 
