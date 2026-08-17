@@ -1,8 +1,6 @@
 <h1 align="center">Hi! I'm John</h1>
 <h3 align="center">A founder from Cleveland, OH</h3>
 
-<p align="left"> <a href="https://twitter.com/johnjackbogart" target="blank"><img src="https://img.shields.io/twitter/follow/johnjackbogart?logo=twitter&style=for-the-badge" alt="johnjackbogart" /></a> </p>
-
 -  I’m currently learning **Rust**
 
 -  I’m looking to collaborate on [shome.page](https://shome.page)
