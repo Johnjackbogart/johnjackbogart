@@ -1,42 +1,43 @@
 <h1 align="center">Hi! I'm John</h1>
 <h3 align="center">A founder from Cleveland, OH</h3>
 
-<p align="center">
--  I’m currently learning **Rust**
-  
-<p align="center">
--  I’m looking to collaborate on [shome.page](https://shome.page)
-  
-<p align="center">
--  I’m looking for help with [r.technology](https://r.technology)
+<div align="center">
+  <a href="https://twitter.com/johnjackbogart" target="blank"><img src="https://img.shields.io/twitter/follow/johnjackbogart?logo=twitter&style=for-the-badge" alt="johnjackbogart" /></a>
+</div>
 
-<p align="center">
--  All of my projects are available at [johnjackbogart.com](johnjackbogart.com)
+<div align="center">
+  <ul style="display:inline-block; text-align:left;">
+    <li>I’m currently learning <strong>Rust</strong></li>
+    <li>I’m looking to collaborate on <a href="https://shome.page">shome.page</a></li>
+    <li>I’m looking for help with <a href="https://r.technology">r.technology</a></li>
+    <li>All of my projects are available at <a href="https://johnjackbogart.com">johnjackbogart.com</a></li>
+    <li>I am <em>going</em> to write some articles on <a href="https://www.johnjackbogart.com/blog">my blog</a> (Soon!!!)</li>
+    <li>Ask me about <strong>React &amp; Next.JS</strong></li>
+    <li>How to reach me <strong>johnjackbogart@gmail.com</strong></li>
+    <li>Here is my <a href="https://www.johnjackbogart.com/resume">resume</a></li>
+    <li>Check out my at <a href="https://johnjackbogart.github.io">lander</a>. Prompted with GPT-5</li>
+    <li><strong>I love to run and make music</strong></li>
+  </ul>
+</div>
 
-<p align="center">
--  I am _going_ to write some articles on [my blog](https://www.johnjackbogart.com/blog) (Soon!!!)
-
-<p align="center">
--  Ask me about **React & Next.JS**
-
-<p align="center">
--  How to reach me **johnjackbogart@gmail.com**
-
-<p align="center">
--  Here is my [resume](https://www.johnjackbogart.com/resume)
-
-<p align="center">
-- Check out my at [lander](https://johnjackbogart.github.io). Prompted with GPT-5
-
-<p align="center">
-- **I love to run and make music**
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/johnjackbogart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnjackbogart" height="30" width="40" /></a>
+<a href="https://twitter.com/johnjackbogart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"/></a>
+<!-- Add other icons/links as needed -->
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnjackbogart&show_icons=true&locale=en&layout=compact" alt="johnjackbogart" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnjackbogart&show_icons=true&locale=en" alt="johnjackbogart" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnjackbogart&" alt="johnjackbogart" /></p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes)
+Here are my stats: 
 
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjackbogart&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+Here are some fun quotes:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes)
