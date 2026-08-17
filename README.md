@@ -36,8 +36,6 @@
 <a href="https://twitter.com/johnjackbogart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnjackbogart" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnjackbogart&show_icons=true&locale=en" alt="johnjackbogart" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnjackbogart&" alt="johnjackbogart" /></p>
 Here are my stats: 
 
