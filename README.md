@@ -2,7 +2,11 @@
 <h3 align="center">A founder from Cleveland, OH</h3>
 
 <div align="center">
-  <ul style="display:inline-block; text-align:left;">
+  <a href="https://twitter.com/johnjackbogart" target="blank"><img src="https://img.shields.io/twitter/follow/johnjackbogart?logo=twitter&style=for-the-badge" alt="johnjackbogart" /></a>
+</div>
+
+<div align="center">
+  <ul style="display:inline-block; text-align:left; list-style-position: inside;">
     <li>I’m currently learning <strong>Rust</strong></li>
     <li>I’m looking to collaborate on <a href="https://shome.page">shome.page</a></li>
     <li>I’m looking for help with <a href="https://r.technology">r.technology</a></li>
@@ -18,22 +22,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/johnjackbogart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"/></a>
+<a href="https://twitter.com/johnjackbogart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tw[...]
 <!-- Add other icons/links as needed -->
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnjackbogart&show_icons=true&locale=en&layout=compact" alt="johnjackbogart" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnjackbogart&show_icons=true&locale=en" alt="johnjackbogart" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnjackbogart&" alt="johnjackbogart" /></p>
-
-Here are my stats: 
-
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjackbogart&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-Here are some fun quotes:
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes)
