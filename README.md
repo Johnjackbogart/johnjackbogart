@@ -2,10 +2,6 @@
 <h3 align="center">A founder from Cleveland, OH</h3>
 
 <div align="center">
-  <a href="https://twitter.com/johnjackbogart" target="blank"><img src="https://img.shields.io/twitter/follow/johnjackbogart?logo=twitter&style=for-the-badge" alt="johnjackbogart" /></a>
-</div>
-
-<div align="center">
   <ul style="display:inline-block; text-align:left;">
     <li>I’m currently learning <strong>Rust</strong></li>
     <li>I’m looking to collaborate on <a href="https://shome.page">shome.page</a></li>
