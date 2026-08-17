@@ -15,13 +15,10 @@
 
 -  How to reach me **johnjackbogart@gmail.com**
 
-<p align="center">
 -  Here is my [resume](https://www.johnjackbogart.com/resume)
 
-<p align="center">
 - Check out my at [lander](https://johnjackbogart.github.io). Prompted with GPT-5
 
-<p align="center">
 - **I love to run and make music**
   
 <h3 align="left">Connect with me:</h3>
