@@ -37,11 +37,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnjackbogart&" alt="johnjackbogart" /></p>
-Here are my stats: 
-
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjackbogart&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-Here are some fun quotes:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes)
 
