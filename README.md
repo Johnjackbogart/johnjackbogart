@@ -1,5 +1,6 @@
-<h1 align="center">Hi! I'm John</h1>
-<h3 align="center">A founder from Cleveland, OH</h3>
+Hi! I'm John
+
+I'm a founder from Cleveland, OH
 
 -  I’m currently learning **Rust**
   
